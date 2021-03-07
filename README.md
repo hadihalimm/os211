@@ -2,4 +2,4 @@
 Operating Systems 2021-1 (Semester Genap 2020/2021)
 
 ## Top 10 Weekly Sites
-[W01](https://hadihalimm.github.io/os211/w01.md)
+[W01](https://hadihalimm.github.io/os211/W01/)
