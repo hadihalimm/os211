@@ -31,3 +31,12 @@ ZCZC W03 15 L16 Assignment #6 Update mylog.txt
 ZCZC W03 120 L17 Assignment #7 W03-FUSE with finding fix for some errors
 ZCZC W03 5 L18 Assignment #8 Update myscript
 ZCZC W03 5 L19 Assignment #9 SHA256SUM and signing
+ZCZC W04 15 L01 SCELE Related Make pair keys for ssh to os211.vlsm.org
+ZCZC W04 30 L11 Assignment #1
+ZCZC W04 30 L12 Assignment #2
+ZCZC W04 20 L13 Assignment #3
+ZCZC W04 150 L14 Assignment #4
+ZCZC W04 10 L15 Assignment #5 Update mylog.txt
+ZCZC W04 60 L16 Assignment #6 TLPI with finding fix for 2 errors (done)
+ZCZC W04 5 L17 Update myscript
+ZCZC W04 5 L18 SHA256SUM and sign

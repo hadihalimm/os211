@@ -1,7 +1,10 @@
-#TOP 10
+#TOP 3
 ZCZC W01 hanifahaputri
 ZCZC W01 hanifanggawi
 ZCZC W01 GerradND
 ZCZC W02 gilangcy
 ZCZC W02 handi91
 ZCZC W02 haikalSusanto
+ZCZC W03 ghifariaulia
+ZCZC W03 hanifanggawi
+ZCZC W03 garyteofanus
