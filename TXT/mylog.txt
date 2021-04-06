@@ -40,3 +40,10 @@ ZCZC W04 10 L15 Assignment #5 Update mylog.txt
 ZCZC W04 60 L16 Assignment #6 TLPI with finding fix for 2 errors (done)
 ZCZC W04 5 L17 Update myscript
 ZCZC W04 5 L18 SHA256SUM and sign
+ZCZC W05 100 L02 ZOOM related
+ZCZC W05 30 L11 Assignment #1
+ZCZC W05 20 L12 Assingment #2 pick 3 best top 10 websites
+ZCZC W05 120 L13 Assignment #3 TOP 10 List with some GSGS
+ZCZC W05 90 L14 Assignment #4
+ZCZC W05 10 L15 Assignment #5 Update mylog.txt
+ZCZC W05 5 L16 Assignment #6 SHA256SUM and sign
