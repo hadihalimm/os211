@@ -47,3 +47,9 @@ ZCZC W05 120 L13 Assignment #3 TOP 10 List with some GSGS
 ZCZC W05 90 L14 Assignment #4
 ZCZC W05 10 L15 Assignment #5 Update mylog.txt
 ZCZC W05 5 L16 Assignment #6 SHA256SUM and sign
+ZCZC W06 30 L11 Assignment #1
+ZCZC W06 20 L12 Assignment #2
+ZCZC W06 150 L13 Assignment #3
+ZCZC W06 60 L14 Assignment #4
+ZCZC W06 10 L15 Assignment #5
+ZCZC W06 5 L16 Assignment #6
