@@ -14,3 +14,6 @@ ZCZC W04 handi91
 ZCZC W05 gilangcy
 ZCZC W05 hanifanggawi
 ZCZC W05 GhifariZR
+ZCZC W06 hanifanggawi
+ZCZC W06 hanifahaputri
+ZCZC W06 haikalSusanto
