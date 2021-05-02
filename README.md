@@ -13,4 +13,4 @@ Operating Systems 2021-1 (Semester Genap 2020/2021)
 | **[W04](https://hadihalimm.github.io/os211/W04/)** |  
 | **[W05](https://hadihalimm.github.io/os211/W05/)** |   
 | **[W06](https://hadihalimm.github.io/os211/W06/)** |   
-| **[W06](https://hadihalimm.gtihub.io/os211/W07/)** |
+| **[W07](https://hadihalimm.github.io/os211/W07/)** |
