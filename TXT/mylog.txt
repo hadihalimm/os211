@@ -67,3 +67,14 @@ ZCZC W08 80 L02 Assignment #2
 ZCZC W08 90 L03 Assignment #3
 ZCZC W08 5 L04 Assignment #4
 ZCZC W08 5 L05 Assignment #5
+ZCZC W09 15 L01 Assignment #1
+ZCZC W09 300 L04 Assignment #4
+ZCZC W09 5 L05 Assignment #5
+ZCZC W09 5 L06 Assignment #6
+ZCZC W09 5 L07 Assignment #7
+ZCZC W10 10 L02 Assignment #2
+ZCZC W10 20 L03 Assignment #3
+ZCZC W10 360 L04 Assignment #4
+ZCZC W10 10 L05 Assignment #5
+ZCZC W10 5 L06 Assignment #6
+ZCZC W10 5 Assignment #7
